@@ -134,6 +134,7 @@ def test_results():
 
     2/2 tests passed
 
+![image](https://github.com/NguyenMav/DataCamp_SQL_Advance_American_Baby_Name_Trend/assets/149219810/6e415a8b-504f-4903-9d37-7d593d94103f)
 
 
 
@@ -2948,6 +2949,7 @@ def test_results():
 
     2/2 tests passed
 
+![image](https://github.com/NguyenMav/DataCamp_SQL_Advance_American_Baby_Name_Trend/assets/149219810/229c4f90-9701-4a1c-b517-0f1f053b1b8d)
 
 
 
@@ -3076,6 +3078,7 @@ def test_results():
 
     2/2 tests passed
 
+![image](https://github.com/NguyenMav/DataCamp_SQL_Advance_American_Baby_Name_Trend/assets/149219810/c82fa7f8-2017-44b7-8038-edd1ab68b126)
 
 
 
@@ -4629,4 +4632,5 @@ def test_results():
     2/2 tests passed
 
 
+![image](https://github.com/NguyenMav/DataCamp_SQL_Advance_American_Baby_Name_Trend/assets/149219810/a714f2b9-e4c0-4341-9354-7b27782aa0ef)
 
